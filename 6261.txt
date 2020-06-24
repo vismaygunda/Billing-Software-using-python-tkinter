@@ -1,0 +1,22 @@
+	Welcome Webcode Retail
+Bill number:6261
+Customer Name:abhishek
+Phone number:789521458
+==========================================
+Products		Qty		price
+==========================================
+Bath Soap		2		80
+Body lotion		2		360
+Daal			3		180
+Tea			3		450
+Coke			1		30
+Thumbs up		2		60
+------------------------------------------
+Cosmetic Tax			Rs.22.0
+Grocery Tax			Rs63.0
+Cold Drinks Tax			Rs.13.5
+------------------------------------------
+
+==========================================
+Total bill 			Rs.1258.5
+==========================================
